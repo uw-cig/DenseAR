@@ -5,6 +5,7 @@
 Chicago Y. Park<sup>1,*</sup>, Jialin Mao<sup>2</sup>, Xiaojian Xu<sup>2</sup>, Taha Kass-Hout<sup>2</sup>, Ulugbek S. Kamilov<sup>1</sup>, Cao Xiao<sup>2</sup>
 
 <sup>1</sup>University of Wisconsin–Madison &nbsp;&nbsp; <sup>2</sup>GE HealthCare
+
 <sup>*</sup>This work was done during an internship at GE HealthCare.
 
 [**Paper (arXiv)**](https://arxiv.org/abs/0000.0000) · [**Project Page**](https://uw-cig.github.io/densear_page/)
