@@ -8,7 +8,7 @@ Chicago Y. Park<sup>1,*</sup>, Jialin Mao<sup>2</sup>, Xiaojian Xu<sup>2</sup>, 
 
 <sup>*</sup>This work was done during an internship at GE HealthCare.
 
-[**Paper (arXiv)**](https://arxiv.org/abs/0000.0000) · [**Project Page**](https://uw-cig.github.io/densear_page/)
+[**Paper (arXiv)**](https://arxiv.org/abs/2607.09892) · [**Project Page**](https://uw-cig.github.io/densear_page/)
 
 ---
 
