@@ -46,7 +46,7 @@ If you find this work useful, please consider citing:
 @article{park2026DenseAR,
   title   = {Next-Dense-Stride Prediction for Multimodal Autoregressive Visual Modeling},
   author  = {Park, Chicago Y. and Mao, Jialin and Xu, Xiaojian and Kass-Hout, Taha and Kamilov, Ulugbek S. and Xiao, Cao},
-  journal = {arXiv:0000.0000},
+  journal = {arXiv:2607.09892},
   year    = {2026}
 }
 ```
