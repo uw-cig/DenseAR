@@ -14,7 +14,7 @@ Chicago Y. Park<sup>1,*</sup>, Jialin Mao<sup>2</sup>, Xiaojian Xu<sup>2</sup>, 
 
 ## 🚧 Code — Coming Soon
 
-The full training and inference code for **DenseAR** is being cleaned up for release and will be published in this repository. **Star ⭐ / watch 👀 this repo** to be notified when it lands.
+The full training and inference code for **DenseAR** will be released at a time of supplement material submission and will be published in this repository. **Star ⭐ / watch 👀 this repo** to be notified when it lands.
 
 ---
 
